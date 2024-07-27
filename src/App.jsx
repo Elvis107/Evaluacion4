@@ -62,7 +62,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1 className="my-4">Agregar Usuario</h1>
+      <h1>Agregar Usuario</h1>
       <form onSubmit={manejarEnvio}>
         <div className="form-group">
           <label>ID</label>
